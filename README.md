@@ -31,7 +31,7 @@ Following user input, it prompts the user to choose whether or not to examine th
 - Language: Python 
 - Libraries: pandas, numpy, time
 
-## Project Data
+## Project Data [!https://github.com/Aritra96/bikeshare-project/tree/master/data]
 - Chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
 
 - New_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
