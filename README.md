@@ -28,8 +28,8 @@ Following user input, it prompts the user to choose whether or not to examine th
 - Finally, the user is prompted with the choice of restarting the program or not.
 
 ## Requirements
-Language: Python 
-Libraries: pandas, numpy, time
+- Language: Python 
+- Libraries: pandas, numpy, time
 
 ## Project Data
 - Chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
